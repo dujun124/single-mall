@@ -53,7 +53,7 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-core</artifactId>
-            <version>RELEASE</version>
+            <version>4.2.0.RELEASE</version>
         </dependency>
 
         <!-- json web token 工具 -->
